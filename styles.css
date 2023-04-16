@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+table,tr,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+ul{
+    list-style-type:none;
+}
+img{
+     height:160px;
+     width:200px;
+}
+audio{
+    height:80px;
+}
